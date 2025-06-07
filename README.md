@@ -191,4 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities, please open an issue or contact the maintainer.
 
 ---
-**Last Updated**: January 2025 
+**Last Updated**: June 2025 
